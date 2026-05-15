@@ -30,23 +30,23 @@ export const SPREADS: SpreadOption[] = [
 ];
 
 export const PREVIEW_CARDS = [
-  require('../assets/cards/cyberpunk/major/fool.png'),
-  require('../assets/cards/cyberpunk/major/wizard.png'),
-  require('../assets/cards/cyberpunk/major/lovers.png'),
-  require('../assets/cards/cyberpunk/major/moon.png'),
-  require('../assets/cards/cyberpunk/major/star.png'),
-  require('../assets/cards/cyberpunk/major/tower.png'),
-  require('../assets/cards/cyberpunk/major/sun.png'),
+  require('../assets/cards/clean/arcanos mayores/fool.PNG'),
+  require('../assets/cards/clean/arcanos mayores/wizard.PNG'),
+  require('../assets/cards/clean/arcanos mayores/lovers.PNG'),
+  require('../assets/cards/clean/arcanos mayores/moon.PNG'),
+  require('../assets/cards/clean/arcanos mayores/star.PNG'),
+  require('../assets/cards/clean/arcanos mayores/tower.PNG'),
+  require('../assets/cards/clean/arcanos mayores/sun.PNG'),
 ];
 
 export const CARD_ASSETS: Record<number, number> = {
-  0: require('../assets/cards/cyberpunk/major/fool.png'),
-  1: require('../assets/cards/cyberpunk/major/wizard.png'),
-  2: require('../assets/cards/cyberpunk/major/lovers.png'),
-  3: require('../assets/cards/cyberpunk/major/moon.png'),
-  4: require('../assets/cards/cyberpunk/major/star.png'),
-  5: require('../assets/cards/cyberpunk/major/tower.png'),
-  6: require('../assets/cards/cyberpunk/major/sun.png'),
+  0: require('../assets/cards/clean/arcanos mayores/fool.PNG'),
+  1: require('../assets/cards/clean/arcanos mayores/wizard.PNG'),
+  2: require('../assets/cards/clean/arcanos mayores/lovers.PNG'),
+  3: require('../assets/cards/clean/arcanos mayores/moon.PNG'),
+  4: require('../assets/cards/clean/arcanos mayores/star.PNG'),
+  5: require('../assets/cards/clean/arcanos mayores/tower.PNG'),
+  6: require('../assets/cards/clean/arcanos mayores/sun.PNG'),
 };
 
 export const SPREAD_LAYOUTS: Record<SpreadOption['type'], SpreadLayout> = {
